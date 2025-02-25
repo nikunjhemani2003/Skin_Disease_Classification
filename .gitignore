@@ -1,0 +1,15 @@
+# macOS system files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files
+saved_models.zip
+saved_models/
+
+# Data files
+data/
+
+# Output files
+output/
